@@ -1,7 +1,7 @@
 # ASDC-intership
 
   - fist task is about Customer Data in Mall
-        - it's done with full analysis and ML using k-means
+      - it's done with full analysis and ML using k-means
     
   - second task is about healthcare and rating hospitals
       - it's done with ful analysis and using ML 'XGBClassifier'
